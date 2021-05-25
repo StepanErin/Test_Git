@@ -11,15 +11,6 @@ namespace Test_Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
-            Console.WriteLine("Hi World");
         }
     }
 }
